@@ -1,0 +1,3 @@
+This dataset contains 10 years of data which has total number of forest fires occurred in Amazon rainforest (Brazil states) for the period 1998 to 2017.
+The Amazon is a vast region that spans across eight rapidly developing countries: Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Suriname and French Guiana. The majority of the amazon forest is contained within Brazil, with 60% of the rainforest.
+Now, let’s start our pandas exercises to explore this dataset and draw some insights.
